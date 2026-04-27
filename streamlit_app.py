@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="My Referral Links for reviews on PACE Institute of Technology and Sciences", page_icon="🔗")
 
 st.title("PACE College Review Referrals")
-st.write("If you're planning to write a review on our college, these codes might give us both a bonus!")
+st.write("If you're interested to write reviews on our college, these codes might give us both a bonus!")
 
 # List of your 4 website details
 websites = [
